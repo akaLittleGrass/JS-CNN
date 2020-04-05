@@ -1,4 +1,4 @@
-import { MnistData } from './Data.js';
+import { MnistData } from './DataSet.js';
 import CNN from './CNN.js';
 
 const model = CNN();
