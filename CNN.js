@@ -1,4 +1,4 @@
-function CNN() {
+export default function CNN() {
   const IMAGE_WIDTH = 28;
   const IMAGE_HEIGHT = 28;
   const IMAGE_CHANNELS = 1;
@@ -43,5 +43,4 @@ function CNN() {
     metrics: ['accuracy'],
   });
   return model;
-}
-export default CNN;
+};
