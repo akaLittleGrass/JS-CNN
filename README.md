@@ -1,10 +1,10 @@
-# CNN Based on Tensorflow.js
-Convolve and pooling twice,flat then output.
+# Convolutional neural network based on Tensorflow.js
+The network will do convolution and pooling operations twice, then flat the data, output.
 
-Train and test with MINST dataset.
+Use MINST dataset to do training and testing.
 
 View the model and training process in browser:
 ```bash
 $ http-server
 ```    
-Preview online,it may take some time to prepare the model:https://akalittlegrass.github.io/JS-CNN/
+Preview online, it may take some time to prepare the model:https://akalittlegrass.github.io/JS-CNN/
