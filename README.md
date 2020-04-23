@@ -7,4 +7,4 @@ View the model and training process in browser:
 ```bash
 $ http-server
 ```    
-Preview online,it may take some time:https://akalittlegrass.github.io/JS-CNN/
+Preview online,it may take some time to prepare the model:https://akalittlegrass.github.io/JS-CNN/
